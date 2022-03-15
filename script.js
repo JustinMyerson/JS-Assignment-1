@@ -1,0 +1,1 @@
+const myConstant = 10;
